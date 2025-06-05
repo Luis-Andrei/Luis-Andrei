@@ -1,78 +1,96 @@
-# Olá, eu sou Luis Andrei 👋
-
-Sou desenvolvedor apaixonado por tecnologia, focado em criar soluções modernas e eficientes.
-
----
-
-## 🛠 Tecnologias que uso
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=mui&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=reactrouter&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=reactquery&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=white)
-![Yup](https://img.shields.io/badge/Yup-000000?style=flat&logo=yup&logoColor=white)
-![React Toastify](https://img.shields.io/badge/React_Toastify-5CE3F4?style=flat&logo=react&logoColor=black)
-![Google Maps](https://img.shields.io/badge/Google_Maps-F4B400?style=flat&logo=googlemaps&logoColor=white)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jwt&logoColor=white)
-![Bcrypt](https://img.shields.io/badge/Bcrypt-6E44FF?style=flat&logo=bcrypt&logoColor=white)
-![Nodemailer](https://img.shields.io/badge/Nodemailer-008000?style=flat&logo=nodemailer&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-B2F72F?style=flat&logo=whatsapp&logoColor=green)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-
-### Infraestrutura & Ferramentas
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+<h1 align="center">👋 Olá! Eu sou o Luis Andrei</h1>
+<p align="center">Desenvolvedor Full Stack focado em criar aplicações modernas, eficientes e seguras 🚀</p>
 
 ---
 
-## 🚀 Meus Projetos
+## 🚀 Tecnologias & Ferramentas
 
-- [Site-Links](https://github.com/Luis-Andrei/Site-Links) - Uma página moderna de links pessoais com design responsivo.
-- [API Bancária em Go](https://github.com/Luis-Andrei/api-bancaria-go) - API RESTful para operações bancárias em Go.
-- [Sistema Bancário Go](https://github.com/Luis-Andrei/sistema-bancario-go) - Sistema completo de banco desenvolvido em Go.
-- [Autenticação JWT e Segurança](https://github.com/Luis-Andrei/Autentica-o-JWT-e-Seguran-a) - Sistema de autenticação segura com JWT.
-- [Card-pio](https://github.com/Luis-Andrei/Card-pio) - Projeto de cardápio interativo.
+### 🧠 Linguagens & Frameworks
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### 🎨 Frontend
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+
+### 🛢 Banco de Dados & Auth
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jwt&logoColor=white)
+![Bcrypt](https://img.shields.io/badge/Bcrypt-6E44FF?style=for-the-badge&logoColor=white)
+
+### ⚙️ DevOps & Outros
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-## 📊 Minhas Estatísticas no GitHub
+## 💼 Principais Projetos
 
-![Luis-Andrei GitHub stats](https://github-readme-stats.vercel.app/api?username=Luis-Andrei&show_icons=true&theme=radical)
+### 🔗 [Site de Links](https://github.com/Luis-Andrei/Site-Links)
+Página responsiva com efeitos animados.  
+[🔗 ver projeto](https://site-links-one.vercel.app)
 
-![Top linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Andrei&layout=compact&theme=radical)
+### 🧾 [Cardápio Interativo](https://github.com/Luis-Andrei/Card-pio)
+Sistema de cardápio editável com persistência de dados e efeitos visuais e entregação de WhatsApp.
+[🔗 ver projeto](https://card-pio-sooty.vercel.app)
+
+### 💳 [API Bancária Go](https://github.com/Luis-Andrei/api-bancaria-go)
+API de gestão bancária RESTful escrita em Go.
+
+### 🧱 [Sistema Bancário Go](https://github.com/Luis-Andrei/sistema-bancario-go)
+Simulação de banco com regras de negócio em Go.
+
+### 🔒 [Autenticação JWT](https://github.com/Luis-Andrei/Autentica-o-JWT-e-Seguran-a)
+Sistema completo de login, autenticação e segurança com Express + MongoDB.
+
+### 📚 Estudos e Arquitetura
+- [Arquitetura de Software e MVC](https://github.com/Luis-Andrei/Arquitetura-de-Software-e-Padr-o-MVC)
+- [Design de Código](https://github.com/Luis-Andrei/Introdu-o-ao-Design-de-C-digo)
+- [Comunicação em Tempo Real com Flask + SOLID](https://github.com/Luis-Andrei/Comunica-o-em-tempo-real-com-FlaskSOLID)
+- [Desenvolvimento Avançado com Flask](https://github.com/Luis-Andrei/Desenvolvimento-Avan-ado-com-Flask)
+- [Desafio Agenda](https://github.com/Luis-Andrei/Desafio-Pr-tico-agenta)
+- [Desafio Conceitos](https://github.com/Luis-Andrei/Desafio-Pr-tico---Conceitos-)
 
 ---
 
-## 📫 Contato
+## 📊 Estatísticas
 
-- 📧 [Email](https://mail.google.com/mail/u/0/#inbox)
-- 🔗 [LinkedIn](https://x.com/luisand36562626)
-- 🐦 [Twitter](https://x.com/luisand36562626)
-- 🌐 [Portfolio](https://card-pio-sooty.vercel.app)
-- 🌐 [Portfolio](https://site-links-one.vercel.app)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luis-Andrei&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Andrei&layout=compact&theme=radical"/>
+</div>
 
 ---
 
-Obrigado pela visita! 🚀
+## 📄 Currículo
+
+📄 [Clique aqui para baixar meu currículo (PDF)](./curriculo.pdf)
+
+*(Você pode colocar o PDF no próprio repositório do GitHub e referenciar o nome do arquivo)*
+
+---
+
+## 📬 Contato
+
+- 📧 Email: [seuemail@email.com](mailto:seuemail@email.com)  
+- 💼 LinkedIn: [linkedin.com/in/sLuis Andrei](www.linkedin.com/in/luis-andrei-258b54212)  
+- 🌐 Portfólio: [https://seu-portfolio.com](https://site-links-one.vercel.app)
+- 🌐 Portfólio: [https://seu-portfolio.com]((https://card-pio-sooty.vercel.app)
+
+---
+
+⭐ Obrigado por visitar meu perfil!
