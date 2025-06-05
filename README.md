@@ -86,10 +86,10 @@ Sistema completo de login, autenticação e segurança com Express + MongoDB.
 
 ## 📬 Contato
 
-- 📧 Email: [seuemail@email.com](mailto:seuemail@email.com)  
+- 📧 Email: [seuemail@email.com](https://mail.google.com/mail/u/0/#inbox)  
 - 💼 LinkedIn: [linkedin.com/in/sLuis Andrei](www.linkedin.com/in/luis-andrei-258b54212)  
-- 🌐 Portfólio: [https://seu-portfolio.com](https://site-links-one.vercel.app)
-- 🌐 Portfólio: [https://seu-portfolio.com]((https://card-pio-sooty.vercel.app)
+- 🌐 Portfólio: (https://site-links-one.vercel.app)
+- 🌐 Portfólio: (https://card-pio-sooty.vercel.app)
 
 ---
 
