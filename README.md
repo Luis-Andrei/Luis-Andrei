@@ -1,80 +1,58 @@
-# 👋 Olá! Eu sou o Luis Andrei  
-Desenvolvedor Full Stack focado em criar aplicações modernas, eficientes e seguras 🚀  
+👋 Olá! Eu sou o Luis Andrei
+Desenvolvedor Full Stack focado em criar aplicações modernas, eficientes e seguras 🚀
 
----
+🚀 Tecnologias & Ferramentas
+🧠 Linguagens & Frameworks
+JavaScript TypeScript Python Go Node.js Express Flask
 
-## 🚀 Tecnologias & Ferramentas
+🎨 Frontend
+HTML5 CSS3 React Vite Tailwind CSS MUI
 
-### 🧠 Linguagens & Frameworks  
-- JavaScript · TypeScript · Python · Go  
-- Node.js · Express · Flask  
-
-### 🎨 Front-End  
-- HTML5 · CSS3 · React · Vite  
-- Tailwind CSS · Material UI (MUI)  
-
-### 🛠 Back-End  
+🛠 Back-End  
 - Node.js · Express · Flask · Go  
 - RESTful APIs · Autenticação JWT  
 - Arquitetura MVC · Princípios SOLID  
 
-### 🛢 Banco de Dados & Autenticação  
-- MongoDB · JWT · Bcrypt  
+🛢 Banco de Dados & Auth
+MongoDB JWT Bcrypt
 
-### ⚙️ DevOps & Outros  
-- Git · GitHub · Vercel  
+⚙️ DevOps & Outros
+Git GitHub Vercel
 
----
+💼 Principais Projetos
+🔗 Site de Links
+Página responsiva com efeitos animados.
+🔗 ver projeto
 
-## 💼 Principais Projetos
+🧾 Cardápio Interativo
+Sistema de cardápio editável com persistência de dados e efeitos visuais e entregação de WhatsApp. 🔗 ver projeto
 
-### 🔗 [Site de Links](https://site-links-one.vercel.app)  
-Página responsiva com efeitos animados, dark mode, ripple, confete e carregamento dinâmico via JSON.
+💳 API Bancária Go
+API de gestão bancária RESTful escrita em Go.
 
-### 🧾 [Cardápio Interativo](https://card-pio-sooty.vercel.app)  
-Sistema de cardápio com edição dinâmica, persistência local, visual moderno e integração com WhatsApp.
+🧱 Sistema Bancário Go
+Simulação de banco com regras de negócio em Go.
 
-### 💳 [API Bancária Go](https://github.com/Luis-Andrei/api-bancaria-go)  
-API RESTful para operações bancárias desenvolvida em Go com autenticação e rotas seguras.
+🔒 Autenticação JWT
+Sistema completo de login, autenticação e segurança com Express + MongoDB.
 
-### 🧱 [Sistema Bancário Go](https://github.com/Luis-Andrei/sistema-bancario-go)  
-Simulação de regras bancárias com contas, saques, depósitos e extrato. Projeto focado em regras de negócio.
+📚 Estudos e Arquitetura
+Arquitetura de Software e MVC
+Design de Código
+Comunicação em Tempo Real com Flask + SOLID
+Desenvolvimento Avançado com Flask
+Desafio Agenda
+Desafio Conceitos
+📊 Estatísticas
+ 
+📄 Currículo
+📄 Clique aqui para baixar meu currículo (PDF)
 
-### 🔐 [Autenticação JWT](https://github.com/Luis-Andrei/Autentica-o-JWT-e-Seguran-a)  
-Sistema completo com login, segurança com JWT, criptografia com Bcrypt e validações.
+(Você pode colocar o PDF no próprio repositório do GitHub e referenciar o nome do arquivo)
 
----
-
-## 📚 Estudos e Arquitetura
-
-- 📐 Arquitetura de Software e Padrão MVC  
-- 🧠 Design de Código e Princípios SOLID  
-- 💬 Comunicação em Tempo Real com Flask  
-- 🛠️ Desenvolvimento Avançado com Flask  
-- 📅 Desafio Agenda  
-- 📘 Desafio de Conceitos  
-
----
-
-## 📊 Estatísticas GitHub
-
-![Luis Andrei GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luis-Andrei&show_icons=true&theme=dracula)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Andrei&layout=compact&theme=dracula)
-
----
-
-## 📄 Currículo  
-📄 [Clique aqui para baixar meu currículo (PDF)](https://github.com/Luis-Andrei/Luis-Andrei/blob/main/Curriculo-Luis-Andrei.pdf)  
-*(coloque o PDF na pasta do seu perfil no GitHub, com o nome acima)*
-
----
-
-## 📬 Contato  
-📧 Email: **seuemail@email.com**  
-💼 LinkedIn: [linkedin.com/in/sLuis-Andrei](https://linkedin.com/in/sLuis-Andrei)  
-🌐 Portfólio: [Site de Links](https://site-links-one.vercel.app)  
-🌐 Portfólio: [Cardápio Interativo](https://card-pio-sooty.vercel.app)
-
----
-
+📬 Contato
+📧 Email: seuemail@email.com
+💼 LinkedIn: linkedin.com/in/sLuis Andrei
+🌐 Portfólio: (https://site-links-one.vercel.app)
+🌐 Portfólio: (https://card-pio-sooty.vercel.app)
 ⭐ Obrigado por visitar meu perfil!
