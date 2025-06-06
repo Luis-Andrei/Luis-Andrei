@@ -7,8 +7,8 @@ JavaScript - TypeScript - Python
 Go Node.js - Express - Flask
 
 🎨 Frontend
-HTML5 CSS3 React Vite 
-Tailwind CSS MUI
+HTML5 - CSS3 - React - Vite 
+Tailwind - CSS - MUI
 
 🛠 Back-End  
 - Node.js · Express · Flask · Go  
