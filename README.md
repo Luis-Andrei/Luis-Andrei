@@ -1,12 +1,14 @@
-👋 Olá! Eu sou o Luis Andrei
-Desenvolvedor Full Stack focado em criar aplicações modernas, eficientes e seguras 🚀
+                       👋 Olá! Eu sou o Luis Andrei
+   Desenvolvedor Full Stack focado em criar aplicações modernas, eficientes e seguras 🚀
 
 🚀 Tecnologias & Ferramentas
 🧠 Linguagens & Frameworks
-JavaScript TypeScript Python Go Node.js Express Flask
+JavaScript - TypeScript - Python 
+Go Node.js - Express - Flask
 
 🎨 Frontend
-HTML5 CSS3 React Vite Tailwind CSS MUI
+HTML5 CSS3 React Vite 
+Tailwind CSS MUI
 
 🛠 Back-End  
 - Node.js · Express · Flask · Go  
